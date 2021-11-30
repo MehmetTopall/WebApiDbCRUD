@@ -10,7 +10,7 @@ namespace DataAccess
 
         //public WebApiDbContext(DbContextOptions<WebApiDbContext> options) : base(options) { }
 
-        //deneme
+        
 
 
         public DbSet<User> Users { get; set; }
