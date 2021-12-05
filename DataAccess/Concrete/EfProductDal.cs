@@ -11,5 +11,6 @@ namespace DataAccess.Concrete
 {
     public class EfProductDal : EfEntityRepositoryBase<Product, WebApiDbContext>, IProductDal
     {
+    //product
     }
 }
